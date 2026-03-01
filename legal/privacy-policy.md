@@ -73,7 +73,7 @@ You can:
 - Manage/cancel subscriptions in Apple or Google account settings
 
 Depending on your region, you may also have rights to request access, correction, deletion, restriction, objection, or data portability.  
-To make a privacy request, email **support@gajju.app**.
+To make a privacy request, email **gajju.help@gmail.com**.
 
 ## 9) Children's Privacy
 Gajju is not intended for children under 13 (or higher minimum age required by local law). If you believe a child has provided personal information, contact us so we can review and take appropriate action.
@@ -85,4 +85,4 @@ We use reasonable technical and organizational measures to protect information. 
 We may update this policy from time to time. The "Last Updated" date shows the latest revision.
 
 ## 12) Contact
-Privacy questions and rights requests: **support@gajju.app**
+Privacy questions and rights requests: **gajju.help@gmail.com**

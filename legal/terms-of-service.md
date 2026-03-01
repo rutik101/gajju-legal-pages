@@ -66,4 +66,4 @@ These Terms are governed by applicable law in the jurisdiction where the service
 We may update these Terms from time to time. Continued use after the updated effective date means you accept the revised Terms.
 
 ## 17) Contact
-Questions about these Terms: **support@gajju.app**
+Questions about these Terms: **gajju.help@gmail.com**

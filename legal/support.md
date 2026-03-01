@@ -4,7 +4,7 @@
 
 For app support, billing help, privacy requests, or bug reports:
 
-- Email: **support@gajju.app**
+- Email: **gajju.help@gmail.com**
 
 When contacting support, please include:
 - Device model
