@@ -25,7 +25,7 @@ To cancel an active subscription, use your Apple or Google subscription settings
 If you want to request deletion of data held by third-party subscription systems associated with your app usage, contact us at **gajju.help@gmail.com** and include identifying details (for example purchase platform and approximate purchase date).
 
 ## 4) AI Chat Data
-If you used AI chat features, prompts may have been processed by Google Gemini API according to Google's policies.  
+If you used AI chat features, prompts may have been processed by xAI Grok API according to xAI's policies.  
 For provider-side deletion or retention requests, contact us at **gajju.help@gmail.com** so we can help route your request.
 
 ## 5) Contact for Data Requests

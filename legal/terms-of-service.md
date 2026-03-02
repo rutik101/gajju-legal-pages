@@ -45,7 +45,7 @@ You are responsible for content you create or enter in the app (for example jour
 The app, branding, design, software, and original content are owned by Gajju and/or licensors and are protected by applicable intellectual property laws.
 
 ## 10) Third-Party Services
-Some features depend on third-party providers (including Google Gemini API, RevenueCat, Apple, Google Play, Expo, and device platform services). Your use of those features may be subject to the providers' own terms and policies.
+Some features depend on third-party providers (including xAI Grok API, RevenueCat, Apple, Google Play, Expo, and device platform services). Your use of those features may be subject to the providers' own terms and policies.
 
 ## 11) Service Availability and Changes
 We may update, modify, suspend, or discontinue parts of the app at any time, including features and pricing, with or without notice as allowed by law.

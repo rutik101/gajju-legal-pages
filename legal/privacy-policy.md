@@ -22,8 +22,8 @@ The app stores most data locally on your phone/tablet, including:
 We do not currently operate our own backend database for this local app content.
 
 ### B) Data sent to third parties when you use specific features
-1. AI Chat (Google Gemini API):
-   - If you use Gita chat, your prompt and recent conversation context are sent to Google's Gemini API to generate a response.
+1. AI Chat (xAI Grok API):
+   - If you use Gita chat, your prompt and recent conversation context are sent to xAI's Grok API to generate a response.
 2. Subscriptions (RevenueCat + Apple App Store / Google Play):
    - Subscription events, entitlement status, and management metadata are processed to enable purchases and restore flows.
    - Payment card data is processed by Apple/Google, not by us.
@@ -51,7 +51,7 @@ Where applicable, we rely on:
 We do **not** sell your personal data and do **not** use in-app advertising trackers for targeted ads.
 
 We share data only with service providers needed to run features you choose:
-- Google (Gemini API): [Google Privacy Policy](https://policies.google.com/privacy)
+- xAI (Grok API): [xAI Privacy Policy](https://x.ai/legal/privacy-policy)
 - RevenueCat: [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 - Apple: [Apple Privacy Policy](https://www.apple.com/legal/privacy)
 - Google Play: [Google Privacy Policy](https://policies.google.com/privacy)
